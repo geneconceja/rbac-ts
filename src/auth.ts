@@ -1,0 +1,1 @@
+// auth.ts — login/logout/session persistence (localStorage) goes here

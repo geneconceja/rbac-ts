@@ -1,0 +1,1 @@
+// main.ts — browser wiring: DOM elements, buttons, permission-gated UI
