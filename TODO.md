@@ -1,9 +1,9 @@
 # TODO — RBAC in Vanilla TypeScript
 
 ## Setup
-- [ ] Install TypeScript (`npm install -g typescript` or as a dev dependency)
-- [ ] Confirm `tsc` compiles the empty `src/` files with no errors (`tsc`)
-- [ ] Open `dist/index.html` in a browser once `main.js` exists, to sanity-check the module loads
+- [x] Install TypeScript (`npm install -g typescript` or as a dev dependency)
+- [x] Confirm `tsc` compiles the empty `src/` files with no errors (`tsc`)
+- [x] Open `dist/index.html` in a browser once `main.js` exists, to sanity-check the module loads
 
 ## `src/types.ts` — model the domain
 - [ ] Define a `Role` union type (e.g. `"admin" | "editor" | "viewer"`)
