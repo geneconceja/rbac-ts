@@ -1,6 +1,5 @@
 // types.ts — Role, Permission, User, Session type definitions go here
 export interface Permission {
-  name: string;
   resource: string;
   action: string;
 }
